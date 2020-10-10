@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "534824285059",
+    "firebase_url": "https://nac-fiapgram.firebaseio.com",
+    "project_id": "nac-fiapgram",
+    "storage_bucket": "nac-fiapgram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534824285059:android:b53b66ddcb6abb54e17cb6",
+        "android_client_info": {
+          "package_name": "com.fiapgram2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534824285059-t0v2hhf3sol8iqud93nhl918msc2r6p7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3tu4Mnm0_ebsA1JOmeWBmQHNvziOh7Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534824285059-t0v2hhf3sol8iqud93nhl918msc2r6p7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
